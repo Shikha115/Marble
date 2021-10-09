@@ -1,0 +1,760 @@
+@media (max-width: 576px) {
+  .header-1 .col-12 {
+    padding: 0px; }
+  .header-1 .header-left {
+    text-align: center; }
+    .header-1 .header-left ul li:first-child:before {
+      left: 41%; }
+  .header-1 .header-right {
+    display: none; }
+    .header-1 .header-right:before {
+      transform: perspective(0px) rotateX(-26deg);
+      -webkit-transform-origin: 0% 0%;
+      -moz-transform-origin: 0% 0%;
+      -o-transform-origin: 0% 0%;
+      transform-origin: 0% 0%;
+      width: 100%; }
+  .slider-area .carousel .carousel-inner .carousel-item.item {
+    height: 80vh; }
+  .slider-area .carousel .carousel-inner .carousel-item .carousel-background {
+    background-color: rgba(0, 0, 0, 0.5); }
+  .slider-area .carousel .carousel-inner .carousel-item .carousel-caption {
+    top: 232px; }
+    .slider-area .carousel .carousel-inner .carousel-item .carousel-caption h2 {
+      line-height: 47px;
+      padding: 0px 68px 0px;
+      font-size: 39px; }
+  .slider-area .carousel .carousel-control-next, .slider-area .carousel .carousel-control-prev {
+    top: 129px; }
+  .missions img {
+    display: none; }
+  .missions h4 {
+    font-size: 40px;
+    margin-bottom: 23px; }
+  .missions .mission-content p {
+    font-size: 16px;
+    margin-bottom: 6px; }
+  .missions .mission-content ul {
+    font-size: 17px;
+    margin-right: 20px; }
+    .missions .mission-content ul.ul_one {
+      padding-right: 12px; }
+    .missions .mission-content ul li:first-child {
+      font-size: 19px; }
+  .products .product-content img {
+    height: 300px; }
+  .products .product-content .product-button a {
+    padding: 15px 20px; }
+  .products .product-heading {
+    height: auto;
+    padding: 15px 30px; }
+    .products .product-heading h2 {
+      margin-bottom: 15px; }
+  .blog-sec h2 {
+    font-size: 48px; }
+  .blog-sec .blog-background {
+    margin-top: 5px; }
+    .blog-sec .blog-background a {
+      width: 135px;
+      height: 52px;
+      line-height: 35px;
+      font-size: 20px; }
+  .blog-sec .blog .blog-content a {
+    width: 115px; }
+  .banner {
+    padding: 60px 0px; }
+    .banner .banner-content {
+      text-align: center; }
+      .banner .banner-content p {
+        float: none !important;
+        margin-bottom: 2rem;
+        font-size: 38px; }
+      .banner .banner-content a {
+        width: 146px;
+        height: 52px;
+        line-height: 33px;
+        font-size: 21px;
+        float: none !important; }
+  .choose h2 {
+    margin-bottom: 45px;
+    font-size: 48px; }
+  .choose .choose-content:after {
+    content: "";
+    background-color: lightgray;
+    height: 0.5px;
+    text-align: center;
+    width: 75%;
+    bottom: 27px;
+    left: 69px;
+    position: absolute; }
+  .testimonials {
+    padding: 25px 0px; }
+    .testimonials .testimonial-text {
+      display: none; }
+    .testimonials .testimonial-content {
+      margin: 20px 0 29px 0; }
+    .testimonials .testimonial .pic {
+      width: auto;
+      height: auto; }
+    .testimonials .testimonial .title {
+      top: 4px; }
+    .testimonials .testimonial .post {
+      color: #fff; }
+  .more h2 {
+    font-size: 22px;
+    line-height: 34px;
+    margin-bottom: .2rem; }
+  .more p {
+    font-size: 15px; }
+  .more a {
+    width: 125px;
+    height: 48px;
+    line-height: 32px;
+    font-size: 20px;
+    margin: 13px 0px; }
+  footer {
+    padding: 0px; }
+    footer .footer-content {
+      padding-top: 50px; }
+    footer hr {
+      margin: 0.5rem auto;
+      width: 94%; }
+    footer p {
+      line-height: initial;
+      letter-spacing: 0.5px;
+      font-size: 16px; }
+  .page-banner h2 {
+    padding-bottom: 80px; }
+  .about {
+    padding: 60px 0px; }
+    .about .intro h4 {
+      font-size: 41px;
+      margin-bottom: 27px; }
+    .about .intro p {
+      margin-bottom: 1rem; }
+    .about .intro img {
+      width: 100%; }
+    .about .quality {
+      background-position: initial; }
+      .about .quality h3 {
+        font-size: 41px;
+        margin-bottom: 27px; }
+      .about .quality .quality-content {
+        border: 0px !important;
+        border-bottom: 1px dashed #fff !important;
+        margin: 0px 30px;
+        padding: 0px; }
+    .about .work-process {
+      margin-bottom: 60px; }
+      .about .work-process h3 {
+        font-size: 41px;
+        margin-bottom: 55px; }
+      .about .work-process .work-img img {
+        height: 317px;
+        object-position: top; }
+    .about .ins h3 {
+      font-size: 45px;
+      margin-bottom: 25px; }
+    .about .ins p {
+      margin: 0px 36px 30px 36px;
+      line-height: 23px; }
+    .about .ins .box {
+      margin-bottom: 45px;
+      height: 85%; }
+    .about .about-video {
+      margin-top: 60px; }
+      .about .about-video h2 {
+        font-size: 45px;
+        margin-bottom: 50px; }
+      .about .about-video iframe {
+        height: 247px; }
+  .gallery .portfolio-menu {
+    margin: 0px;
+    padding: 20px 12px; }
+    .gallery .portfolio-menu .portfolio-list {
+      display: inline-grid;
+      width: 49.6%; }
+      .gallery .portfolio-menu .portfolio-list form {
+        display: inline-table; }
+  .gallery .marble {
+    padding: 0px; }
+    .gallery .marble .marble-content h2 {
+      margin-bottom: 0px; }
+  .blog-details h2 {
+    font-size: 33px;
+    text-align: left; }
+  .blog-details img {
+    height: 50vh; }
+  .blog-details p, .blog-details ul li {
+    font-size: 16px;
+    line-height: initial; }
+  .contact .form h2 {
+    line-height: 1.2;
+    margin-bottom: 28px;
+    font-size: 44px; }
+  .contact .form form .form-group {
+    margin: 0px; }
+    .contact .form form .form-group .col-12 {
+      padding: 0px 15px; }
+    .contact .form form .form-group .form-control {
+      margin-bottom: 1rem; }
+  .contact .contact-info {
+    margin-bottom: 35px; }
+    .contact .contact-info h2 {
+      margin-bottom: 20px; }
+    .contact .contact-info p {
+      margin-bottom: 25px; }
+    .contact .contact-info .three-box {
+      margin-bottom: 30px; }
+  .contact .map h2 {
+    margin-bottom: 20px; }
+  .clients {
+    padding: 50px 0px; }
+    .clients img {
+      height: 30vh;
+      margin-bottom: 25px; }
+    .clients ul {
+      margin-bottom: 35px; }
+      .clients ul li {
+        max-width: 220px !important; }
+    .clients .client-video h2 {
+      line-height: 52px;
+      margin-bottom: 38px; }
+    .clients .client-video .video iframe {
+      height: 252px; } }
+
+@media (min-width: 577px) and (max-width: 767px) {
+  .header-1 .col-12 {
+    padding: 0px; }
+  .header-1 .header-left {
+    text-align: center; }
+    .header-1 .header-left ul li:first-child:before {
+      left: 41%; }
+  .header-1 .header-right {
+    display: none; }
+    .header-1 .header-right:before {
+      transform: perspective(0px) rotateX(-26deg);
+      -webkit-transform-origin: 0% 0%;
+      -moz-transform-origin: 0% 0%;
+      -o-transform-origin: 0% 0%;
+      transform-origin: 0% 0%;
+      width: 100%; }
+  .slider-area .carousel .carousel-inner .carousel-item.item {
+    height: 80vh; }
+  .slider-area .carousel .carousel-inner .carousel-item .carousel-background {
+    background-color: rgba(0, 0, 0, 0.5); }
+  .slider-area .carousel .carousel-inner .carousel-item .carousel-caption {
+    top: 247px; }
+    .slider-area .carousel .carousel-inner .carousel-item .carousel-caption h2 {
+      line-height: 52px;
+      padding: 0px 68px 0px;
+      font-size: 48px; }
+      .slider-area .carousel .carousel-inner .carousel-item .carousel-caption h2 span {
+        font-size: 49px;
+        font-weight: bolder;
+        text-shadow: 3px 3px 3px black; }
+  .slider-area .carousel .carousel-control-next, .slider-area .carousel .carousel-control-prev {
+    top: 85px; }
+  .missions img {
+    display: none; }
+  .missions h4 {
+    margin-bottom: 23px;
+    font-size: 48px; }
+  .missions .mission-content p {
+    font-size: 16px; }
+  .missions .mission-content ul {
+    font-size: 17px;
+    margin-right: 33px; }
+    .missions .mission-content ul.ul_one {
+      padding-right: 26px;
+      padding-left: 0px; }
+    .missions .mission-content ul li:first-child {
+      font-size: 19px; }
+  .products .product-content img {
+    height: 300px;
+    object-fit: cover; }
+  .products .product-content .product-button a {
+    padding: 12px 10px;
+    font-size: 12px; }
+  .products .product-heading {
+    height: auto;
+    padding: 15px 30px;
+    top: 33%; }
+    .products .product-heading h2 {
+      margin-bottom: 15px; }
+  .blog-sec h2 {
+    font-size: 48px; }
+  .blog-sec .blog-background {
+    margin-top: 5px; }
+    .blog-sec .blog-background a {
+      width: 150px;
+      height: 52px;
+      line-height: 35px;
+      font-size: 20px; }
+  .blog-sec .blog .blog-content a {
+    width: 115px; }
+  .banner .banner-content {
+    text-align: center; }
+    .banner .banner-content p {
+      float: none !important;
+      margin-bottom: 2rem;
+      font-size: 44px; }
+    .banner .banner-content a {
+      width: 146px;
+      height: 52px;
+      line-height: 33px;
+      font-size: 21px;
+      float: none !important; }
+  .choose h2 {
+    margin-bottom: 45px;
+    font-size: 48px; }
+  .choose .choose-content:after {
+    content: "";
+    background-color: lightgray;
+    height: 0.5px;
+    text-align: center;
+    width: 75%;
+    bottom: 27px;
+    left: 69px;
+    position: absolute; }
+  .testimonials {
+    padding: 25px 0px; }
+    .testimonials .testimonial-text {
+      display: none; }
+    .testimonials .testimonial-content {
+      margin: 20px 0 29px 0; }
+    .testimonials .testimonial .pic {
+      width: auto;
+      height: auto; }
+    .testimonials .testimonial .title {
+      top: 4px; }
+    .testimonials .testimonial .post {
+      color: #fff; }
+  .more h2 {
+    font-size: 25px;
+    line-height: 34px;
+    margin-bottom: .2rem; }
+  .more p {
+    font-size: 15px; }
+  .more a {
+    width: 125px;
+    height: 48px;
+    line-height: 32px;
+    font-size: 20px;
+    margin: 13px 0px; }
+  footer {
+    padding: 0px; }
+    footer .footer-content {
+      padding-top: 50px; }
+      footer .footer-content h2 {
+        line-height: 33px; }
+      footer .footer-content h5 {
+        font-size: 14px; }
+    footer hr {
+      margin: 0.5rem auto;
+      width: 100%; }
+    footer p {
+      line-height: initial;
+      letter-spacing: 0.5px;
+      font-size: 16px; }
+  .page-banner h2 {
+    padding-bottom: 80px; }
+  .about {
+    padding: 60px 0px; }
+    .about .intro h4 {
+      margin-bottom: 27px;
+      font-size: 48px; }
+    .about .intro img {
+      margin-top: 25px;
+      width: 100%; }
+    .about .intro p {
+      padding: 0px; }
+    .about .quality {
+      background-position: initial; }
+      .about .quality h3 {
+        font-size: 46px;
+        margin-bottom: 27px; }
+      .about .quality .quality-content {
+        border: 0px !important;
+        border-bottom: 1px dashed #fff !important;
+        margin: 0px 30px;
+        padding: 0px; }
+    .about .work-process {
+      margin-bottom: 60px; }
+      .about .work-process h3 {
+        margin-bottom: 55px;
+        font-size: 48px; }
+      .about .work-process .work-img img {
+        height: 317px;
+        object-position: top; }
+    .about .ins h3 {
+      margin-bottom: 25px;
+      font-size: 48px; }
+    .about .ins p {
+      margin: 0px 36px 30px 36px;
+      line-height: 23px; }
+    .about .ins .box {
+      margin-bottom: 45px;
+      height: 85%; }
+    .about .about-video {
+      margin-top: 60px; }
+      .about .about-video h2 {
+        line-height: 53px;
+        font-size: 48px;
+        margin-bottom: 50px; }
+      .about .about-video iframe {
+        height: 267px; }
+  .gallery .portfolio-menu {
+    margin: 0px;
+    padding: 20px; }
+    .gallery .portfolio-menu .portfolio-list {
+      display: inline-grid;
+      width: 49.7%; }
+      .gallery .portfolio-menu .portfolio-list form {
+        display: inline-table; }
+  .gallery .marble {
+    padding: 0px; }
+    .gallery .marble .marble-content h2 {
+      margin-bottom: 0px; }
+  .blog-details h2 {
+    font-size: 33px;
+    text-align: left; }
+  .blog-details img {
+    height: 50vh; }
+  .blog-details p, .blog-details ul li {
+    font-size: 16px;
+    line-height: initial; }
+  .contact .form h2 {
+    line-height: 1.2;
+    margin-bottom: 28px;
+    font-size: 44px; }
+  .contact .form form .form-group {
+    margin: 0px; }
+    .contact .form form .form-group .col-12 {
+      padding: 0px 15px; }
+    .contact .form form .form-group .form-control {
+      margin-bottom: 1rem; }
+  .contact .contact-info {
+    margin-bottom: 35px; }
+    .contact .contact-info h2 {
+      margin-bottom: 20px; }
+    .contact .contact-info p {
+      margin-bottom: 30px; }
+    .contact .contact-info .three-box {
+      margin-bottom: 30px; }
+  .contact .map h2 {
+    margin-bottom: 20px; }
+  .contact .map p {
+    margin-bottom: 40px; }
+  .clients {
+    padding: 50px 0px; }
+    .clients img {
+      height: 30vh;
+      margin-bottom: 25px; }
+    .clients ul {
+      margin-bottom: 35px; }
+      .clients ul li {
+        max-width: 245px !important; }
+    .clients .client-video h2 {
+      line-height: 52px;
+      margin-bottom: 38px; }
+    .clients .client-video .video iframe {
+      height: 272px; } }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .header-1 .col-12 {
+    padding: 0px; }
+  .header-1 .header-left ul li:first-child:before {
+    left: 32%; }
+  .header-1 .header-right:before {
+    width: 368px; }
+  .slider-area .carousel .carousel-inner .carousel-item .carousel-caption {
+    top: 295px; }
+    .slider-area .carousel .carousel-inner .carousel-item .carousel-caption h2 {
+      font-size: 50px;
+      line-height: 55px;
+      padding: 0px 68px 0px; }
+  .slider-area .carousel .carousel-control-next, .slider-area .carousel .carousel-control-prev {
+    top: 85px; }
+  .missions h4 {
+    margin-bottom: 23px; }
+  .missions .mission-content p {
+    font-size: 17px;
+    margin-bottom: 0.5rem; }
+  .missions .mission-content ul {
+    font-size: 17px;
+    margin-right: 64px;
+    padding-left: 24px; }
+    .missions .mission-content ul.ul_one {
+      padding-right: 84px; }
+    .missions .mission-content ul li:first-child {
+      font-size: 20px; }
+  .products .product-content img {
+    height: 300px;
+    object-fit: cover; }
+  .products .product-content .product-button a {
+    padding: 15px 20px; }
+  .products .product-heading {
+    height: auto;
+    padding: 15px 30px;
+    top: 33%; }
+    .products .product-heading h2 {
+      margin-bottom: 15px; }
+  .banner {
+    margin: 0px; }
+    .banner .banner-content {
+      text-align: center; }
+      .banner .banner-content p {
+        float: none !important;
+        margin-bottom: 3rem;
+        font-size: 55px; }
+      .banner .banner-content a {
+        float: none !important; }
+  .blog-sec .blog-background {
+    margin-top: 5px; }
+  .blog-sec .blog .blog-img img {
+    height: 100%;
+    object-fit: cover; }
+  .blog-sec .blog .blog-content a {
+    width: 125px; }
+  .testimonials {
+    padding: 25px 0px; }
+    .testimonials .testimonial-text {
+      display: none; }
+    .testimonials .testimonial-content {
+      margin: 20px 0 29px 0; }
+    .testimonials .testimonial .pic {
+      width: auto;
+      height: auto; }
+    .testimonials .testimonial .title {
+      top: 4px; }
+    .testimonials .testimonial .post {
+      color: #fff; }
+  .about {
+    padding: 60px 0px; }
+    .about .intro h4 {
+      margin-bottom: 27px; }
+    .about .intro img {
+      width: 100%;
+      height: 45vh; }
+    .about .quality .quality-content {
+      padding: 0px 5px 10px; }
+      .about .quality .quality-content img {
+        width: 80px;
+        height: 80px;
+        margin: 15px auto; }
+    .about .work-process {
+      margin-bottom: 60px; }
+      .about .work-process h3 {
+        margin-bottom: 55px; }
+      .about .work-process .work-img img {
+        height: 317px;
+        object-position: top; }
+    .about .ins h3 {
+      margin-bottom: 25px; }
+    .about .ins p {
+      margin: 0px 36px 30px 36px;
+      line-height: 23px; }
+    .about .ins .box {
+      margin-bottom: 45px;
+      height: 85%; }
+    .about .about-video {
+      margin-top: 60px; }
+      .about .about-video h2 {
+        line-height: 53px;
+        margin-bottom: 50px; }
+      .about .about-video iframe {
+        height: 363px; }
+  .gallery .portfolio-menu {
+    margin: 0px;
+    padding: 20px; }
+    .gallery .portfolio-menu .portfolio-list {
+      display: inline-grid;
+      width: 49%; }
+      .gallery .portfolio-menu .portfolio-list form {
+        display: inline-table; }
+  .gallery .marble {
+    padding: 0px; }
+    .gallery .marble #demo {
+      margin: 26px 0px; }
+    .gallery .marble .marble-content {
+      padding: 0px; }
+      .gallery .marble .marble-content h2 {
+        margin-bottom: 0px;
+        padding-top: 0px; }
+      .gallery .marble .marble-content a {
+        margin: 0px; }
+  .contact .form .container {
+    max-width: 741px; }
+  .contact .form h2 {
+    margin-bottom: 45px; }
+  .contact .form form .form-group .col-12 {
+    padding: 0px; }
+  .contact .contact-info h2 {
+    margin-bottom: 20px; }
+  .contact .contact-info p {
+    margin-bottom: 35px; }
+  .contact .map h2 {
+    margin-bottom: 25px; }
+  .clients img {
+    height: 35vh;
+    margin-bottom: 30px; }
+  .clients .client-video h2 {
+    margin-bottom: 55px; }
+  .clients .client-video .video iframe {
+    height: 180px; } }
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .header-1 .col-12 {
+    padding: 0px; }
+  .header-1 .header-left {
+    padding: 0px 15px; }
+    .header-1 .header-left ul li:first-child:before {
+      left: 22%; }
+  .header-1 .header-right:before {
+    width: 326px; }
+  .slider-area .carousel .carousel-inner .carousel-item .carousel-caption {
+    top: 273px; }
+    .slider-area .carousel .carousel-inner .carousel-item .carousel-caption h2 {
+      padding: 0px 68px 0px;
+      margin-bottom: 30px; }
+  .slider-area .carousel .carousel-control-next, .slider-area .carousel .carousel-control-prev {
+    top: 100px; }
+  .missions h4 {
+    margin-bottom: 23px; }
+  .missions img {
+    height: auto; }
+  .missions .mission-content p {
+    font-size: 17px;
+    margin-bottom: 1rem; }
+  .missions .mission-content ul {
+    padding-left: 0px;
+    font-size: 17px;
+    margin-right: 10px; }
+    .missions .mission-content ul.ul_one {
+      padding-right: 0px; }
+    .missions .mission-content ul li:first-child {
+      font-size: 20px; }
+  .products .product-content img {
+    height: 300px;
+    object-fit: cover; }
+  .products .product-content .product-button {
+    left: 25%; }
+    .products .product-content .product-button a {
+      padding: 15px; }
+  .products .product-heading {
+    height: auto;
+    padding: 15px 10px; }
+    .products .product-heading h2 {
+      margin-bottom: 15px; }
+  .choose {
+    padding: 70px 0px 0px; }
+  .testimonials {
+    padding: 25px; }
+    .testimonials .description {
+      padding: 19px 15px; }
+    .testimonials .testimonial-text h2 {
+      margin: 0px 0px 0.5rem; }
+    .testimonials .testimonial .testimonial-content {
+      margin: 20px 0 30px 0; }
+  footer .footer-content p {
+    margin-bottom: 0px; }
+  .about .intro p {
+    margin: 0px;
+    padding: 0; }
+  .about .ins p {
+    margin: 0px 50px 18px 50px; }
+  .about .ins .box {
+    height: 90%; }
+  .about .about-video {
+    margin-top: 75px; }
+    .about .about-video iframe {
+      height: 488px; }
+  .gallery {
+    padding: 50px 0px; }
+    .gallery .col-lg-3 {
+      padding-right: 0px; }
+    .gallery .portfolio-menu {
+      padding: 20px 9px; }
+      .gallery .portfolio-menu .portfolio-list {
+        margin-bottom: 10px; }
+        .gallery .portfolio-menu .portfolio-list form {
+          display: inline-flex; }
+          .gallery .portfolio-menu .portfolio-list form label {
+            margin: 0; }
+          .gallery .portfolio-menu .portfolio-list form input[type=checkbox] {
+            height: 17px; }
+    .gallery .marble {
+      padding: 30px 0px; }
+      .gallery .marble .marble-content {
+        padding: 0px; }
+        .gallery .marble .marble-content h2 {
+          padding: 0px; }
+  .contact .form h2 {
+    margin-bottom: 45px; }
+  .contact .form form .form-group .col-12 {
+    padding: 0px; }
+  .contact .contact-info h2 {
+    margin-bottom: 30px; }
+  .contact .map h2 {
+    margin-bottom: 30px; }
+  .clients img {
+    height: 35vh;
+    margin-bottom: 30px; }
+  .clients .client-video .video iframe {
+    height: 249px; } }
+
+@media (min-width: 1200px) and (max-width: 1433px) {
+  .header-1 .header-left ul li:first-child:before {
+    left: 19%; }
+  .missions h4 {
+    margin-bottom: 55px; }
+  .missions img {
+    height: 420px; }
+  .missions .mission-content p {
+    font-size: 17px;
+    margin-bottom: 1rem;
+    word-break: break-all; }
+  .missions .mission-content ul {
+    padding-left: 0px;
+    font-size: 17px;
+    margin-right: 46px; }
+    .missions .mission-content ul.ul_one {
+      padding-right: 17px; }
+    .missions .mission-content ul li:first-child {
+      font-size: 20px; }
+  .products .product-content .product-button a {
+    padding: 15px; }
+  .testimonial .description {
+    padding: 25px 15px; }
+  .testimonial .testimonial-content {
+    margin: 20px 0 35px 0; }
+  .about .intro h4 {
+    margin-bottom: 50px; }
+  .about .intro p {
+    margin: 0px;
+    padding: 0; }
+  .about .ins p {
+    margin: 0px 50px 18px 50px; }
+  .about .ins .box {
+    height: 90%; }
+  .about .about-video {
+    margin-top: 75px; }
+    .about .about-video iframe {
+      height: 581px; }
+  .gallery .portfolio-menu {
+    padding: 20px; }
+  .gallery .marble {
+    padding: 20px 0px; }
+    .gallery .marble .marble-content h2 {
+      padding: 12px 0px 0px; }
+  .contact .form h2 {
+    margin-bottom: 50px; }
+  .contact .form form .form-group .col-12 {
+    padding: 0px; }
+  .contact .contact-info h2 {
+    margin-bottom: 30px; }
+  .contact .map h2 {
+    margin-bottom: 30px; }
+  .clients .client-video .video iframe {
+    height: 313px; } }
